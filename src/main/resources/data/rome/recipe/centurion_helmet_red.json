@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:red_wool"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "DDD",
+    "D D"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:centurion_helmet_red"
+  }
+}

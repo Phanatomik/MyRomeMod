@@ -1,0 +1,58 @@
+{
+  "item.rome.praetorian_hat_red": "Praetorian helmet (Red)",
+  "item.rome.praetorian_chestpalte_red": "Praetorian chestplate (Red)",
+  "item.rome.praetorian_leggins_red": "Praetorian tunic (Red)",
+  "item.rome.praetorian_boots_red": "Praetorian boots (Red)",
+
+  "item.rome.praetorian_hat_purple": "Praetorian helmet (Purple)",
+  "item.rome.praetorian_chestpalte_purple": "Praetorian chestplate (Purple)",
+  "item.rome.praetorian_leggins_purple": "Praetorian tunic (Purple)",
+  "item.rome.praetorian_boots_purple": "Praetorian boots (Purple)",
+
+  "item.rome.legioner_helmet": "Legionnaire helmet",
+  "item.rome.legioner_chestplate": "Legionnaire chestplate",
+  "item.rome.legioner_leggins": "Legionnaire tunic",
+  "item.rome.legioner_boots": "Legionnaire boots",
+
+  "item.rome.hastatus_hel": "Hastatus helmet",
+  "item.rome.hastatus_chestplate": "Hastatus chestplate",
+  "item.rome.hastatus_leggins": "Hastatus tunic",
+  "item.rome.hastatus_boots": "Hastatus boots",
+
+  "item.rome.general_helmet": "Generals helmet",
+  "item.rome.general_chestplate": "General chestplate",
+  "item.rome.general_leggins": "General tunic",
+  "item.rome.general_boots": "General boots",
+
+  "item.rome.aquilifer_helmet": "Aquilifer helmet",
+  "item.rome.aquilifer_chestplate": "Aquilifer chestplate",
+  "item.rome.aquilifer_leggins": "Aquilifer tunic",
+  "item.rome.aquilifer_boots": "Aquilifer boots",
+
+  "item.rome.centurion_helmet_red": "Centurion helmet (red)",
+  "item.rome.centurion_helmet_purple": "Centurion helmet (pohui)",
+  "item.rome.centurion_helmet_white": "Centurion helmet (white)",
+  "item.rome.centurion_chestplate": "Centurion chestplate",
+  "item.rome.centurion_leggins": "Centurion tunic",
+  "item.rome.centurion_boots": "Centurion boots",
+
+  "item.rome.romanelite_helmet": "Roman elite helmet",
+  "item.rome.romanelite_chestplate": "Roman elite chestplate",
+  "item.rome.romanelite_leggins": "Roman elite tunic",
+  "item.rome.romanelite_boots": "Roman elite boots",
+
+  "item.rome.emperor_helmet": "Emperor helmet",
+  "item.rome.emperor_chestplate": "Emperor chestplate",
+  "item.rome.emperor_leggins": "Emperor tunic",
+  "item.rome.emperor_boots": "Emperor boots",
+
+  "item.rome.gaul_helmet": "Gaul helmet",
+  "item.rome.gaul_chestplate": "Gaul cuirass",
+  "item.rome.gaul_leggins": "Gaul leggings",
+  "item.rome.gaul_boots": "Gaul boots",
+
+  "item.rome.chief_helmet": "Chief helmet",
+  "item.rome.chief_chestplate": "Chief cuirass",
+  "item.rome.chief_leggins": "Chief leggings",
+  "item.rome.chief_boots": "Chief boots"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:red_wool"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "DWD",
+    "D D"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:praetorian_boots_red"
+  }
+}

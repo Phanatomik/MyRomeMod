@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "D D",
+    "DID",
+    "DDD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:centurion_chestplate"
+  }
+}

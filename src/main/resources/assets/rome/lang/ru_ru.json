@@ -1,0 +1,61 @@
+{
+  "item.rome.praetorian_hat_red": "Преторианский шлем (Красный)",
+  "item.rome.praetorian_chestplate_red": "Преторианский нагрудник (Красный)",
+  "item.rome.praetorian_leggins_red": "Преторианская туника (Красная)",
+  "item.rome.praetorian_boots_red": "Преторианские поножи (Красные)",
+
+  "item.rome.praetorian_hat_purple": "Преторианский шлем (Фиолетовый)",
+  "item.rome.praetorian_chestplate_purple": "Преторианский нагрудник (Фиолетовый)",
+  "item.rome.praetorian_leggins_purple": "Преторианская туника (Фиолетовая)",
+  "item.rome.praetorian_boots_purple": "Преторианские поножи (Фиолетовые)",
+
+  "item.rome.legioner_helmet": "Шем легионера",
+  "item.rome.legioner_chestplate": "Нагрудник легионера",
+  "item.rome.legioner_leggins": "Туника легионера",
+  "item.rome.legioner_boots": "Поножи легионера",
+
+  "item.rome.hastatus_helmet": "Шем гастата",
+  "item.rome.hastatus_chestplate": "Нагрудник гастата",
+  "item.rome.hastatus_leggins": "Туника гастата",
+  "item.rome.hastatus_boots": "Сандалии гастата",
+
+  "item.rome.general_helmet": "Шлем генерала",
+  "item.rome.general_chestplate": "Нагрудник генерала",
+  "item.rome.general_leggins": "Туника генерала",
+  "item.rome.general_boots": "Поножи генерала",
+
+  "item.rome.aquilifer_helmet": "Шлем аквилифера",
+  "item.rome.aquilifer_chestplate": "Нагрудник аквилифера",
+  "item.rome.aquilifer_leggins": "Туника аквилифера",
+  "item.rome.aquilifer_boots": "Поножи аквилифера",
+
+  "item.rome.centurion_helmet_red": "Шлем центуриона (красный)",
+  "item.rome.centurion_helmet_purple": "Шлем центуриона (сине-красный)",
+  "item.rome.centurion_helmet_white": "Шлем центуриона (белый)",
+  "item.rome.centurion_chestplate": "Нагрудник центуриона",
+  "item.rome.centurion_leggins": "Туника центуриона",
+  "item.rome.centurion_boots": "Поножи центуриона",
+
+  "item.rome.romanelite_helmet": "Элитный римский шлем",
+  "item.rome.romanelite_chestplate": "Элитный римский нагрудник",
+  "item.rome.romanelite_leggins": "Элитная римская туника",
+  "item.rome.romanelite_boots": "Элитные римские поножи",
+
+  "item.rome.emperor_helmet": "Золотой венок Императора",
+  "item.rome.emperor_chestplate": "Лорика мускулата",
+  "item.rome.emperor_leggins": "Императорское одеяние",
+  "item.rome.emperor_boots": "Императорские поножи",
+
+  "item.rome.gaul_helmet": "Гальский шлем",
+  "item.rome.gaul_chestplate": "Гальская кираса",
+  "item.rome.gaul_leggins": "Гальская кольчуга",
+  "item.rome.gaul_boots": "Гальские ботинки",
+
+  "item.rome.chief_helmet": "Шлем Вождя",
+  "item.rome.chief_chestplate": "Кираса Вождя",
+  "item.rome.chief_leggins": "Кольчуга Вождя",
+  "item.rome.chief_boots": "Ботинки Вождя"
+
+
+
+}

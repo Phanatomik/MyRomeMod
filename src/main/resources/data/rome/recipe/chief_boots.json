@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+
+    "D": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "D D",
+    "I I",
+    "I I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:chief_boots"
+  }
+}

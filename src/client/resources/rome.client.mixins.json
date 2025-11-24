@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.rome.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"RomeModClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:purple_wool"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    " W ",
+    "DDD",
+    "D D"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:praetorian_hat_purple"
+  }
+}

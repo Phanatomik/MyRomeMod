@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "GDG",
+    "D D",
+    "D D"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:emperor_leggins"
+  }
+}

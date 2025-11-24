@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "I I",
+    "IDI",
+    "IDI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:chief_chestplate"
+  }
+}

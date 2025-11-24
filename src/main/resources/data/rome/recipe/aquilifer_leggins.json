@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "IWI",
+    "I I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:aquilifer_leggins"
+  }
+}

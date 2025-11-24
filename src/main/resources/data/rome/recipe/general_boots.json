@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "C C",
+    "D D",
+    "D D"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rome:general_boots"
+  }
+}
